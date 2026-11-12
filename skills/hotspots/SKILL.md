@@ -1,7 +1,7 @@
 ---
 name: hotspots
 description: Lists this repo's hotspots (complex files that keep changing, and files agents keep growing) from local git, with coderot. Use before adding code to or refactoring an existing file in a git repo, when planning where new code should go, or when the user asks which files are risky or rotting.
-allowed-tools: Bash(npx -y @coderot-ai/cli hotspots *)
+allowed-tools: Bash(npx -y @coderot-ai/cli hotspots --json)
 ---
 
 # Hotspots
