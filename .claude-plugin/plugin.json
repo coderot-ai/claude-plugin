@@ -1,0 +1,10 @@
+{
+  "name": "coderot",
+  "displayName": "coderot",
+  "description": "Hotspots before you edit: the files in this repo that are complex, keep changing, or that agents keep growing, from local git only. By coderot.ai",
+  "author": { "name": "coderot", "url": "https://coderot.ai/?utm_source=claude-plugin" },
+  "homepage": "https://coderot.ai/?utm_source=claude-plugin",
+  "repository": "https://github.com/coderot-ai/claude-plugin",
+  "license": "Elastic-2.0",
+  "keywords": ["code-health", "hotspots", "complexity", "ai-code", "refactoring"]
+}
